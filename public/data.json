@@ -1,0 +1,27 @@
+[
+  {
+    "id": 101,
+    "name": "Wireless Mouse",
+    "description": "A sleek and ergonomic wireless mouse with long battery life."
+  },
+  {
+    "id": 102,
+    "name": "Bluetooth Headphones",
+    "description": "Over-ear noise-cancelling headphones with rich sound quality."
+  },
+  {
+    "id": 103,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit keyboard with tactile feedback and durable keys."
+  },
+  {
+    "id": 104,
+    "name": "Portable Charger",
+    "description": "10,000mAh power bank with fast charging support and dual USB ports."
+  },
+  {
+    "id": 105,
+    "name": "Smartwatch",
+    "description": "Stylish smartwatch with fitness tracking and notification alerts."
+  }
+]
