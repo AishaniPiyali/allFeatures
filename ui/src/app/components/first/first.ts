@@ -3,6 +3,7 @@ import { NgOptimizedImage } from '@angular/common'
 import {MatCardModule} from '@angular/material/card';
 import {MatChipsModule} from '@angular/material/chips';
 import { DataService } from "../../services/data-service";
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-first',
@@ -11,12 +12,10 @@ import { DataService } from "../../services/data-service";
   styleUrl: './first.scss'
 })
 export class First {
-  longText = `The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog
-  from Japan. A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was
-  originally bred for hunting.`;
+  
   items: any;
 
-  constructor(private dataService: DataService) {}
+  constructor(private dataService: DataService, private router: Router) {}
 
   ngOnInit() {
     this.dataService.getData().subscribe({
@@ -29,5 +28,9 @@ export class First {
         console.error(err);
       }
     })
+  }
+
+  viewItemDetails(item: any) {
+    this.router.navigate(['/item-details/'+item]);
   }
 }

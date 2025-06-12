@@ -1,0 +1,112 @@
+[
+  {
+    "id": 201,
+    "name": "MechaPro X100",
+    "brand": "KeyMaster",
+    "description": "Full-sized RGB mechanical keyboard with blue switches.",
+    "category": "Mechanical Keyboard",
+    "price": 79.99,
+    "stock": 50,
+    "switchType": "Blue",
+    "features": ["RGB Lighting", "Detachable USB-C Cable", "Programmable Keys"]
+  },
+  {
+    "id": 202,
+    "name": "SilentStrike TKL",
+    "brand": "SwitchCraft",
+    "description": "Tenkeyless keyboard with silent red switches and aluminum case.",
+    "category": "Mechanical Keyboard",
+    "price": 99.99,
+    "stock": 30,
+    "switchType": "Silent Red",
+    "features": ["Compact Layout", "Hot-Swappable Switches", "USB-C"]
+  },
+  {
+    "id": 203,
+    "name": "ChromaBlade 60%",
+    "brand": "BrightKey",
+    "description": "Compact 60% mechanical keyboard with per-key RGB and macro support.",
+    "category": "Mechanical Keyboard",
+    "price": 69.99,
+    "stock": 75,
+    "switchType": "Brown",
+    "features": ["Per-Key RGB", "Macro Support", "PBT Keycaps"]
+  },
+  {
+    "id": 204,
+    "name": "TitanPro 80",
+    "brand": "IronType",
+    "description": "80% mechanical keyboard with tactile brown switches.",
+    "category": "Mechanical Keyboard",
+    "price": 89.00,
+    "stock": 40,
+    "switchType": "Brown",
+    "features": ["Tactile Feedback", "Aluminum Frame", "NKRO"]
+  },
+  {
+    "id": 205,
+    "name": "StealthBoard Mini",
+    "brand": "NinjaKeys",
+    "description": "Ultra-compact 40% keyboard designed for minimalists.",
+    "category": "Mechanical Keyboard",
+    "price": 49.99,
+    "stock": 60,
+    "switchType": "Red",
+    "features": ["Portable", "Custom Firmware", "Bluetooth Enabled"]
+  },
+  {
+    "id": 206,
+    "name": "RGBWarrior V2",
+    "brand": "GlowTech",
+    "description": "Gaming keyboard with vibrant RGB patterns and fast response.",
+    "category": "Mechanical Keyboard",
+    "price": 109.99,
+    "stock": 25,
+    "switchType": "Speed Silver",
+    "features": ["Gaming Mode", "Anti-Ghosting", "Media Controls"]
+  },
+  {
+    "id": 207,
+    "name": "CodeMaster Pro",
+    "brand": "DevGear",
+    "description": "Developer-friendly mechanical keyboard with clear switches and function layer.",
+    "category": "Mechanical Keyboard",
+    "price": 84.99,
+    "stock": 35,
+    "switchType": "Clear",
+    "features": ["Layer Customization", "Ergonomic Angle", "Silent Operation"]
+  },
+  {
+    "id": 208,
+    "name": "RetroType Classic",
+    "brand": "TypeRetro",
+    "description": "Retro-style keyboard with modern internals and clicky keys.",
+    "category": "Mechanical Keyboard",
+    "price": 74.99,
+    "stock": 20,
+    "switchType": "Blue",
+    "features": ["Vintage Look", "Modern Layout", "USB-C"]
+  },
+  {
+    "id": 209,
+    "name": "WorkBench Elite",
+    "brand": "ProType",
+    "description": "Mechanical keyboard designed for professionals with white backlight.",
+    "category": "Mechanical Keyboard",
+    "price": 89.99,
+    "stock": 45,
+    "switchType": "Brown",
+    "features": ["White Backlight", "Silent Typing", "Durable Build"]
+  },
+  {
+    "id": 210,
+    "name": "NightOps V3",
+    "brand": "StealthTech",
+    "description": "Stealthy blacked-out keyboard with smooth linear switches.",
+    "category": "Mechanical Keyboard",
+    "price": 95.00,
+    "stock": 33,
+    "switchType": "Linear",
+    "features": ["No Backlight", "Matte Finish", "Silent Keypress"]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 301,
+    "name": "PulseTime X1",
+    "brand": "ChronoTech",
+    "description": "Stylish smartwatch with heart-rate tracking and GPS.",
+    "category": "Smartwatch",
+    "price": 149.99,
+    "stock": 45,
+    "features": ["Heart Rate Monitor", "Built-in GPS", "Water Resistant"],
+    "connectivity": ["Bluetooth 5.0", "Wi-Fi"]
+  },
+  {
+    "id": 302,
+    "name": "FitMate Pro",
+    "brand": "FitVerse",
+    "description": "Fitness-focused smartwatch with sleep tracking and workout modes.",
+    "category": "Smartwatch",
+    "price": 129.00,
+    "stock": 30,
+    "features": ["Sleep Tracking", "Step Counter", "Workout Modes"],
+    "connectivity": ["Bluetooth 5.2"]
+  },
+  {
+    "id": 303,
+    "name": "SmartNova 5",
+    "brand": "NovaGear",
+    "description": "Premium AMOLED smartwatch with voice assistant and NFC.",
+    "category": "Smartwatch",
+    "price": 199.99,
+    "stock": 20,
+    "features": ["Voice Assistant", "AMOLED Display", "NFC Payments"],
+    "connectivity": ["Bluetooth", "NFC", "Wi-Fi"]
+  },
+  {
+    "id": 304,
+    "name": "WaveFit Mini",
+    "brand": "OceanTech",
+    "description": "Compact smartwatch with hydration reminders and smart alerts.",
+    "category": "Smartwatch",
+    "price": 99.99,
+    "stock": 60,
+    "features": ["Hydration Reminder", "Call & Text Alerts", "Weather Display"],
+    "connectivity": ["Bluetooth 4.2"]
+  },
+  {
+    "id": 305,
+    "name": "TitanGo V2",
+    "brand": "TitanCore",
+    "description": "Rugged smartwatch for outdoors with altimeter and compass.",
+    "category": "Smartwatch",
+    "price": 179.00,
+    "stock": 35,
+    "features": ["Compass", "Altimeter", "Shock Resistant"],
+    "connectivity": ["Bluetooth", "GPS"]
+  },
+  {
+    "id": 306,
+    "name": "EliteWatch GT",
+    "brand": "UrbanWear",
+    "description": "Luxury smartwatch with customizable watch faces and stainless steel body.",
+    "category": "Smartwatch",
+    "price": 229.00,
+    "stock": 18,
+    "features": ["Custom Watch Faces", "Stainless Steel", "Message Sync"],
+    "connectivity": ["Bluetooth", "Wi-Fi"]
+  },
+  {
+    "id": 307,
+    "name": "YouthBand Neo",
+    "brand": "NeoFit",
+    "description": "Affordable smartwatch with colorful bands and fitness tracking.",
+    "category": "Smartwatch",
+    "price": 59.99,
+    "stock": 80,
+    "features": ["Step Counter", "Sleep Monitor", "Alarm"],
+    "connectivity": ["Bluetooth"]
+  },
+  {
+    "id": 308,
+    "name": "ZenWatch Aura",
+    "brand": "ZenTek",
+    "description": "Minimalist smartwatch with long battery life and health monitoring.",
+    "category": "Smartwatch",
+    "price": 109.00,
+    "stock": 40,
+    "features": ["Long Battery", "Stress Monitor", "Oxygen Level"],
+    "connectivity": ["Bluetooth", "Wi-Fi"]
+  },
+  {
+    "id": 309,
+    "name": "WorkTime Pro",
+    "brand": "BizSmart",
+    "description": "Business-class smartwatch with calendar sync and call functionality.",
+    "category": "Smartwatch",
+    "price": 169.00,
+    "stock": 25,
+    "features": ["Calendar Sync", "Call Handling", "Email Alerts"],
+    "connectivity": ["Bluetooth", "Wi-Fi"]
+  },
+  {
+    "id": 310,
+    "name": "PulseEdge Active",
+    "brand": "EdgeFit",
+    "description": "Sport smartwatch with blood pressure monitor and music control.",
+    "category": "Smartwatch",
+    "price": 139.99,
+    "stock": 50,
+    "features": ["BP Monitor", "Music Control", "Sports Mode"],
+    "connectivity": ["Bluetooth", "GPS"]
+  }
+]
