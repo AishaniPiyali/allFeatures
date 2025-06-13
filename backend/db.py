@@ -2,7 +2,7 @@
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-MONGO_URI = "mongodb+srv://findthelost:password@cluster0.ldzebp5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongo url"
 
 client = MongoClient(MONGO_URI)
 db = client["myFirstDatabase"]
