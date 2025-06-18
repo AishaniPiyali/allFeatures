@@ -1,0 +1,12 @@
+<form action="" [formGroup]="orderForm" (ngSubmit)="submitOrder()">
+    <div class="form-group">
+        <label for="customerName">Customer Name</label>
+        <input id="customerName" type="text" class="form-control" formControlName="customer_name">
+    </div>
+    <div class="form-group">
+        <label for="customerAddress">Customer Address</label>
+        <input id="customerAddress" type="text" class="form-control" formControlName="customer_address">
+    </div>
+    <button type="submit" class="btn btn-primary" [disabled]="!orderForm.valid">Submit Order</button>
+</form>
+<p>orders forms!</p>

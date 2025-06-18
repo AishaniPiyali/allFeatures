@@ -1,0 +1,142 @@
+[
+  {
+    "id": 401,
+    "name": "SoundCore H300",
+    "brand": "Auralink",
+    "description": "Wireless over-ear headphones with deep bass and 40-hour playtime.",
+    "price": 89.99,
+    "stock": 60,
+    "features": ["Noise Isolation", "40-Hour Battery", "Foldable Design"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 402,
+    "name": "BassPulse Max",
+    "brand": "PulseTune",
+    "description": "High-fidelity headphones with aptX support and comfort padding.",
+    "price": 119.00,
+    "stock": 35,
+    "features": ["aptX Codec", "Cushioned Earcups", "Voice Assistant Support"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 403,
+    "name": "QuietWave X2",
+    "brand": "EchoBeat",
+    "description": "Hybrid noise cancellation and touch control interface.",
+    "price": 149.99,
+    "stock": 28,
+    "features": ["Hybrid ANC", "Touch Controls", "USB-C Fast Charging"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 404,
+    "name": "AirVibe 7",
+    "brand": "SonicFlow",
+    "description": "Lightweight headphones with 3D surround sound.",
+    "price": 99.50,
+    "stock": 45,
+    "features": ["3D Sound", "Ultra Lightweight", "Adjustable Headband"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 405,
+    "name": "TuneLink One",
+    "brand": "BeatNest",
+    "description": "Budget-friendly headphones with passive noise isolation.",
+    "price": 59.99,
+    "stock": 70,
+    "features": ["Passive Noise Isolation", "Compact Fold", "12-Hour Battery"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 406,
+    "name": "GrooveX Elite",
+    "brand": "WaveSync",
+    "description": "Studio-grade headphones with dual-mic calling.",
+    "price": 139.00,
+    "stock": 22,
+    "features": ["Dual-Mic", "Studio Sound", "Auto Pause/Play"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 407,
+    "name": "NimbleBeats LUX",
+    "brand": "Nimble",
+    "description": "Leather-trimmed wireless headphones with HD audio clarity.",
+    "price": 159.00,
+    "stock": 18,
+    "features": ["HD Audio", "Leather Padding", "Long Press Voice Activation"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 408,
+    "name": "BeatNova Edge",
+    "brand": "NovaGear",
+    "description": "Foldable headphones with built-in memory card slot.",
+    "price": 79.99,
+    "stock": 38,
+    "features": ["MicroSD Support", "Bass Booster", "Travel Pouch Included"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 409,
+    "name": "ZenTone Flow",
+    "brand": "ZenTek",
+    "description": "Eco-friendly headphones made from recycled materials.",
+    "price": 89.00,
+    "stock": 50,
+    "features": ["Eco Design", "Voice Assistant", "Wireless Charging"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  },
+  {
+    "id": 410,
+    "name": "ClearTune FX",
+    "brand": "ClearTone",
+    "description": "Crystal-clear sound with dynamic drivers and LED lighting.",
+    "price": 109.99,
+    "stock": 40,
+    "features": ["LED Lights", "Dynamic Drivers", "SoftShell Case"],
+    "category": {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "description": "Over-ear noise-cancelling headphones with rich sound quality."
+    }
+  }
+]
